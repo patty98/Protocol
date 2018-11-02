@@ -1,0 +1,16 @@
+D:\Disk D old\projects VS c++\protocol\protocol\bin\Debug\protocol.exe.config
+D:\Disk D old\projects VS c++\protocol\protocol\bin\Debug\protocol.exe
+D:\Disk D old\projects VS c++\protocol\protocol\bin\Debug\protocol.pdb
+D:\Disk D old\projects VS c++\protocol\protocol\obj\Debug\protocol.csprojAssemblyReference.cache
+D:\Disk D old\projects VS c++\protocol\protocol\obj\Debug\MainWindow.g.cs
+D:\Disk D old\projects VS c++\protocol\protocol\obj\Debug\App.g.cs
+D:\Disk D old\projects VS c++\protocol\protocol\obj\Debug\protocol_MarkupCompile.cache
+D:\Disk D old\projects VS c++\protocol\protocol\obj\Debug\protocol_MarkupCompile.lref
+D:\Disk D old\projects VS c++\protocol\protocol\obj\Debug\MainWindow.baml
+D:\Disk D old\projects VS c++\protocol\protocol\obj\Debug\protocol.g.resources
+D:\Disk D old\projects VS c++\protocol\protocol\obj\Debug\protocol.Properties.Resources.resources
+D:\Disk D old\projects VS c++\protocol\protocol\obj\Debug\protocol.csproj.GenerateResource.cache
+D:\Disk D old\projects VS c++\protocol\protocol\obj\Debug\protocol.csproj.CoreCompileInputs.cache
+D:\Disk D old\projects VS c++\protocol\protocol\obj\Debug\protocol.exe
+D:\Disk D old\projects VS c++\protocol\protocol\obj\Debug\protocol.pdb
+D:\Disk D old\projects VS c++\protocol\protocol\obj\Debug\App.baml
